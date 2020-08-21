@@ -12,6 +12,10 @@ $ ruby test.rb
 $ irb
 ```
 
+## ruby 공식 reference
+
++[ruby docs](https://www.ruby-lang.org/ko/)
+
 ## Ruby cheat-sheet
 
 ##### Table of Contents
