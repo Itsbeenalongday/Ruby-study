@@ -12,6 +12,11 @@ $ ruby test.rb
 $ irb
 ```
 
+## git bash에 irb 설정
+
+```
+$ alias irb='winpty "$(which irb).cmd"'
+```
 ## ruby 공식 reference
 
 +[ruby docs](https://www.ruby-lang.org/ko/)
