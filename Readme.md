@@ -14,7 +14,7 @@ $ irb
 
 ## git bash에 irb 설정
 
-```
+```bash
 $ alias irb='winpty "$(which irb).cmd"'
 ```
 ## ruby 공식 reference
